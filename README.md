@@ -8,4 +8,6 @@ Main topics:
 * Dieting - bulking/lean gains
 * Dieting - body recomposition
 * Exercise - execution
+* Exercise - selection
+* Exercise - programming
 * Rehab
